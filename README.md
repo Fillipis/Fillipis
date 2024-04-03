@@ -1,8 +1,8 @@
-### Olá, mundo! :raised_hands:
+### Olá, mundo! 🙌
 
-Me leia com bom humor, hahaha!
+Me leia com bom humor, hahaha! 🕶️
 
-- 🔭 Sou orientado ao Modelo Relacional.
-- :sunglasses: PHP é raíz, JavaScript é nutela.
-- :purple_heart: Apaixonado por SQL.
-- 🌱 Buscando aprimorar meu lado Analista de Dados ...
+- 🔭 Sou orientado ao modelo relacional.
+- 🐘 PHP é raíz, javascript é nutela.
+- 🖤 Apaixonado por SQL.
+- 🌱 Buscando aprimorar meu lado Analista de Dados com Power BI ...
