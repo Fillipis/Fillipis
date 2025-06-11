@@ -1,7 +1,7 @@
 ### Olá, mundo! 🙌
 
-Me leia com bom humor, hahaha! 🕶️
+Me chamo Fillipi, bacharel em analista de sistemas 👨🏽‍💻.
 
-- 🔭 Sou orientado ao modelo relacional.
-- 🖤 Apaixonado por SQL.
-- 🌱 Buscando aprimorar meu lado Analista de Dados com Power BI ...
+- Sou um apaixonado por linguagens de programação, modelagem e análise de dados.
+
+: )
